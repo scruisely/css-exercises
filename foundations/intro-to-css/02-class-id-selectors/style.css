@@ -1,0 +1,19 @@
+.change {
+    background-color: rgba(255, 0, 85, 0.169);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.change02 {
+    font-size: 24px;
+}
+
+#text02 {
+    color: blue;
+    font-size: 36px;
+}
+
+#text04 {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
