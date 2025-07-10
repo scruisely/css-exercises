@@ -1,0 +1,13 @@
+.bbckgrnd {
+    color: white;
+    background-color: black;
+}
+
+.ybckgrnd {
+    background-color: yellow;
+}
+
+.font {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
